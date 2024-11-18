@@ -1,0 +1,222 @@
+==========
+References
+==========
+Bookstore.Data
+Microsoft.EntityFrameworkCore
+Bookstore.Domain.Addresses
+Bookstore.Domain.Books
+Bookstore.Domain.Customers
+Bookstore.Domain.Orders
+Bookstore.Domain.Carts
+Bookstore.Domain.Offers
+Bookstore.Domain.ReferenceData
+Microsoft.EntityFrameworkCore.Metadata.Builders
+Bookstore.Data.FileServices
+Bookstore.Domain
+System.Threading.Tasks
+System.IO
+System
+Microsoft.Extensions.Configuration
+Amazon.S3.Transfer
+Amazon.S3
+Amazon.S3.Model
+Bookstore.Data.ImageResizeService
+ImageMagick
+Bookstore.Data.ImageValidationServices
+Amazon.Rekognition
+Amazon.Rekognition.Model
+System.Linq
+System.Collections.Generic
+Bookstore.Data.Repositories
+Microsoft.EntityFrameworkCore.ChangeTracking
+project.all
+Bookstore.Domain.AdminUser
+System.ComponentModel.DataAnnotations
+System.Reflection
+System.ComponentModel
+System.Net.Http
+System.Threading
+Bookstore.Cdk
+Amazon.CDK
+Amazon.CDK.AWS.S3
+Amazon.CDK.AWS.Cognito
+Constructs
+
+Amazon.CDK.AWS.SSM
+Amazon.CDK.AWS.CloudFront
+Amazon.CDK.AWS.IAM
+Amazon.CDK.CustomResources
+Amazon.CDK.AWS.EC2
+Amazon.CDK.AWS.RDS
+Amazon.CDK.AWS.SecretsManager
+Amazon.CDK.AWS.S3.Assets
+Amazon.CDK.AWS.Logs
+System.Diagnostics.CodeAnalysis
+Bookstore.Domain.Tests
+Xunit
+Bookstore.Domain.Tests.Builders
+<global namespace>
+Microsoft.VisualStudio.TestPlatform
+
+===============
+DownloadedFiles
+===============
+system.net.http.json
+project.all.json
+imagemagick.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/app/Bookstore.Domain.Tests/Bookstore.Domain.Tests.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/app/Bookstore.Cdk/Bookstore.Cdk.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/app/Bookstore.Data/Bookstore.Data.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+Magick.NET-Q8-AnyCPU,13.3.0
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/app/Bookstore.Domain/Bookstore.Domain.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/app/Bookstore.Domain.Tests/Bookstore.Domain.Tests.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/app/Bookstore.Cdk/Bookstore.Cdk.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/app/Bookstore.Data/Bookstore.Data.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+Magick.NET-Q8-AnyCPU,13.3.0
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/app/Bookstore.Domain/Bookstore.Domain.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+
+===========
+BuildErrors
+===========
+
+
