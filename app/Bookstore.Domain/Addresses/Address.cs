@@ -1,5 +1,4 @@
-using Bookstore.Domain.Customers;
-using Bookstore.Domain.Common;
+﻿using Bookstore.Domain.Customers;
 
 namespace Bookstore.Domain.Addresses
 {
